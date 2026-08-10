@@ -1,4 +1,4 @@
-#include "dispensercontroller.h"
+#include "dc.h"
 #include <QDebug>
 DispenserController::DispenserController(QObject *parent) : QObject(parent) {
     m_timer = new QTimer(this);

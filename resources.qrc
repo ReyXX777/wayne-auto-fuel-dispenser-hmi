@@ -2,14 +2,14 @@
     <qresource prefix="/">
         <!-- QML Views -->
         <file>qml/Main.qml</file>
-        <file>qml/components/HMICard.qml</file>
-        <file>qml/components/FuelProgressCard.qml</file>
-        <file>qml/components/MeterReadingsCard.qml</file>
-        <file>qml/components/RollingMeterCard.qml</file>
-        <file>qml/components/FuelSelectorCard.qml</file>
-        <file>qml/components/StatusCard.qml</file>
-        <file>qml/components/PaymentCard.qml</file>
-        <file>qml/components/FuelButton.qml</file>
+        <file>qml/components/Hc.qml</file>
+        <file>qml/components/Fpc.qml</file>
+        <file>qml/components/Mrc.qml</file>
+        <file>qml/components/Rmc.qml</file>
+        <file>qml/components/Fsc.qml</file>
+        <file>qml/components/Sc.qml</file>
+        <file>qml/components/Pc.qml</file>
+        <file>qml/components/Fb.qml</file>
 
         <!-- SVG Assets -->
         <file>assets/drop_petrol.svg</file>

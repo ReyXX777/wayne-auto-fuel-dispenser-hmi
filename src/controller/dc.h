@@ -1,5 +1,5 @@
-#ifndef DISPENSERCONTROLLER_H
-#define DISPENSERCONTROLLER_H
+#ifndef DC_H
+#define DC_H
 #include <QObject>
 #include <QTimer>
 #include <QElapsedTimer>

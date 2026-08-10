@@ -2,8 +2,8 @@
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
 #include <QTimer>
-#include "src/model/fueldispensermodel.h"
-#include "src/controller/dispensercontroller.h"
+#include "src/model/fm.h"
+#include "src/controller/dc.h"
 
 int main(int argc, char *argv[])
 {

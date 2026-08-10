@@ -1,5 +1,5 @@
-#ifndef FUELDISPENSERMODEL_H
-#define FUELDISPENSERMODEL_H
+#ifndef FM_H
+#define FM_H
 
 #include <QObject>
 #include <QtMath>

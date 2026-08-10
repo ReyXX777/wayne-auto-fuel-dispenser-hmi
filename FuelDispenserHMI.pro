@@ -5,12 +5,12 @@ CONFIG   += c++17
 # The .pro file must explicitly list every source file
 SOURCES  += \
     main.cpp \
-    src/model/fueldispensermodel.cpp \
-    src/controller/dispensercontroller.cpp
+    src/model/fm.cpp \
+    src/controller/dc.cpp
 
 HEADERS  += \
-    src/model/fueldispensermodel.h \
-    src/controller/dispensercontroller.h
+    src/model/fm.h \
+    src/controller/dc.h
 
 RESOURCES += \
     resources.qrc
