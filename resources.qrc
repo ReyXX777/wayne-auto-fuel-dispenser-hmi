@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- QML Views -->
+        <file>qml/Main.qml</file>
+        <file>qml/components/HMICard.qml</file>
+        <file>qml/components/FuelProgressCard.qml</file>
+        <file>qml/components/MeterReadingsCard.qml</file>
+        <file>qml/components/RollingMeterCard.qml</file>
+        <file>qml/components/FuelSelectorCard.qml</file>
+        <file>qml/components/StatusCard.qml</file>
+        <file>qml/components/PaymentCard.qml</file>
+        <file>qml/components/FuelButton.qml</file>
+
+        <!-- SVG Assets -->
+        <file>assets/drop_petrol.svg</file>
+        <file>assets/drop_e20.svg</file>
+        <file>assets/drop_e80.svg</file>
+        <file>assets/drop_premium.svg</file>
+        <file>assets/drop_diesel.svg</file>
+        <file>assets/icon_tap_card.svg</file>
+        <file>assets/icon_insert_chip.svg</file>
+        <file>assets/icon_pay.svg</file>
+        <file>assets/icon_qr.svg</file>
+    </qresource>
+</RCC>
