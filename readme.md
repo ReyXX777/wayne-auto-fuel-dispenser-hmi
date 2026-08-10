@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/61d25e78-6bf4-43de-bf4e-a0c22ba9418f
+
+
 <p align="center">
   <a href="https://www.qt.io/" target="_blank"><img src="https://img.shields.io/badge/Qt-5.15.2-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"></a>
   <a href="https://en.cppreference.com/w/cpp/17" target="_blank"><img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17"></a>
