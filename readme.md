@@ -2,8 +2,6 @@
   <a href="https://www.qt.io/" target="_blank"><img src="https://img.shields.io/badge/Qt-5.15.2-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"></a>
   <a href="https://en.cppreference.com/w/cpp/17" target="_blank"><img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17"></a>
   <a href="https://doc.qt.io/qt-5/qmlapplications.html" target="_blank"><img src="https://img.shields.io/badge/QML-UI-EE2A7B?style=for-the-badge&logo=qt&logoColor=white" alt="QML"></a>
-  <a href="https://www.w3.org/Graphics/SVG/" target="_blank"><img src="https://img.shields.io/badge/SVG-Assets-FFB13B?style=for-the-badge&logo=svg&logoColor=black" alt="SVG"></a>
-  <a href="https://www.mingw-w64.org/" target="_blank"><img src="https://img.shields.io/badge/MinGW-8.1-8A2BE2?style=for-the-badge&logo=gnu&logoColor=white" alt="MinGW"></a>
 </p>
 
 <h1 align="center">⛽ Fuel Dispenser HMI Simulation</h1>
